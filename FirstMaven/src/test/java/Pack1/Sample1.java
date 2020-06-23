@@ -1,4 +1,4 @@
-package Pack1;
+package test.java.pack1;
 
 public class Sample1 {
 
